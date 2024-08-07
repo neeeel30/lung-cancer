@@ -24,9 +24,8 @@ pip install numpy pandas matplotlib scikit-learn tensorflow keras opencv-python 
 
 ## Usage
 
-1. **Data Preparation:**. The path to the dataset in the code is `C:\\Users\\rahul\\Downloads\\archive`.
 
-2. **Run the Jupyter Notebook:**
+1. **Run the Jupyter Notebook:**
    - Open `Lung_cancer.ipynb` in Jupyter Notebook or Jupyter Lab.
    - Execute the cells sequentially to preprocess the data, build and train the model, and evaluate its performance.
 
